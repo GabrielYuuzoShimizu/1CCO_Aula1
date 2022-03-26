@@ -1,0 +1,52 @@
+
+    body{
+        font-family:monospace ;
+        font-size: 20px;
+        color: black;
+}
+
+    .titulo{
+        
+    }
+    .subtitulo{
+
+    }
+
+
+    .paragrafo_b{
+        color: white;
+        background-color: rgb(123, 255, 0);
+        font-size: 40px;
+        font-family:'Gill Sans';
+        font-weight: bold;
+        
+    }
+
+    .estilo_div_a{
+        background-color: #f5a75e;
+        width: 400px;
+        height: 200px;
+  
+    }
+    .estilo_div_b{
+        background-color: #5eb9f5;
+        width: 80%;
+        height: 19%;
+        
+    }
+
+    .estilo_div_d{
+        width: 90%;
+        height: 50vh;
+        background-color: rgb(16, 48, 71); 
+    }
+
+    .estilo_div_e{
+        width: 20vw;
+        height: 10%;
+        background-color:rgb(236, 224, 223) ;
+    }
+    
+    
+
+
